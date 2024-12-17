@@ -1,0 +1,130 @@
+.logo{
+    float: left;
+    margin-bottom: 50px;
+    margin-top: 30px;
+
+}
+
+footer{
+    background-color: rgb(0, 225, 100);
+    margin-top: 10px;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-bottom: 10px;
+    font-family: cursive;
+    border: 2px rgb(0, 45, 0) solid;
+    color: rgb(0, 45, 0);
+}
+
+.footer_p{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 30px;
+}
+
+body{
+    margin: 0px;
+    background-image: url(./Pictures/rushmore.png);
+    background-size: cover;
+}
+
+header{
+    background-color: rgb(0, 225, 100); 
+    overflow: auto;
+    margin-left: 12%;
+    margin-right: 12%;
+    font-family: cursive;
+    color: rgb(0, 45, 0);
+    border: 2px rgb(0, 45, 0) solid
+}
+
+.logo_container{
+    max-width: 250px; 
+    margin: 0px; 
+    float: left;
+    font-style: italic;
+}
+
+.logo_container p{
+    float: left;
+    width: 20%;
+
+}
+
+.links a{
+    text-decoration: none; 
+    padding: 5px;
+    height: 20px;
+    margin: 2px;
+    float: left;
+    clear: none;
+    color:rgb(0, 45, 0)
+}
+
+.links{
+    overflow: auto;
+    height: 120px;
+    padding-top: 25px;
+    padding-left: 20px;
+    max-width: 70%;
+    min-width: 20%;
+}
+
+.links a:hover{
+    background-color:rgb(0, 45, 0);
+    color: rgb(255, 255, 255);
+    transition-duration: 0.5s;
+}
+
+.content{
+    background-color: rgb(0, 225, 100);
+    margin-top: 10px;
+    margin-left: 12%;
+    margin-right: 12%;
+    font-family: cursive;
+    border: 2px rgb(0, 45, 0) solid;
+    color: rgb(0, 45, 0);
+    text-align: center;
+
+}
+
+.content_seg{
+    border: 2px rgb(0, 45, 0) solid;
+    color: rgb(0, 45, 0);
+    overflow-y: auto;
+    margin: 5px;
+}
+
+#downtown{
+    float: left
+}
+
+.content img{
+    border: 2px rgb(0, 45, 0) solid;
+    margin: 5px
+}
+
+h3{
+    margin-left: 5px;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+#happy_teens{
+    float: right;
+}
+
+#rushmore_sculpture{
+    float: left
+}
+
+ul {
+    text-align: left;
+    font-size: large;
+}
+
+#golden{
+    background-color: rgb(180 , 180, 0);
+
+}
